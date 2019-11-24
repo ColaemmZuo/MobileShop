@@ -15,6 +15,4 @@
     implementation 'org.jetbrains:annotations-java5:15.0'
     annotationProcessor'com.jakewharton:butterknife-compiler:8.2.1'
     implementation 'com.android.support:recyclerview-v7:28.0.0'
-## 运行截图</br>
-    首页
-    ![](https://github.com/ColaemmZuo/MobileShop/raw/master/app/src/main/res/drawable/photos/home.png)
+## 运行截图
