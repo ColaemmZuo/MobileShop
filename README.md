@@ -1,6 +1,6 @@
 # MobileShop安卓移动开发课程作业
 #依赖 详见app内build.gradle
-    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'<\br>
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'</br>
     implementation'com.squareup.okhttp3:okhttp:3.11.0'
     implementation'com.google.code.gson:gson:2.7'
     //retrofit+rxjava
