@@ -17,4 +17,4 @@
     implementation 'com.android.support:recyclerview-v7:28.0.0'
 ## 运行截图</br>
     首页
-    ![](https://github.com/ColaemmZuo/MobileShop/tree/master/app/src/main/res/drawable/photos/home.png)
+    ![](https://github.com/ColaemmZuo/MobileShop/raw/master/app/src/main/res/drawable/photos/home.png)
