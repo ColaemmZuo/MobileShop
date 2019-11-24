@@ -1,10 +1,10 @@
 # MobileShop安卓移动开发课程作业
 ## 依赖 详见app内build.gradle</br>
-    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'</br>
-    implementation'com.squareup.okhttp3:okhttp:3.11.0'</br>
-    implementation'com.google.code.gson:gson:2.7'</br>
-    //retrofit+rxjava</br>
-    implementation 'com.squareup.retrofit2:retrofit:2.0.2'</br>
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    implementation'com.squareup.okhttp3:okhttp:3.11.0'
+    implementation'com.google.code.gson:gson:2.7'
+    //retrofit+rxjava
+    implementation 'com.squareup.retrofit2:retrofit:2.0.2'
     implementation 'com.squareup.retrofit2:converter-gson:2.0.2'</br>
     implementation 'com.squareup.retrofit2:adapter-rxjava:2.0.2'</br>
     implementation 'com.squareup.okhttp3:logging-interceptor:3.2.0'</br>
