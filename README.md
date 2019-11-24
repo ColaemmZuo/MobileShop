@@ -5,16 +5,16 @@
     implementation'com.google.code.gson:gson:2.7'
     //retrofit+rxjava
     implementation 'com.squareup.retrofit2:retrofit:2.0.2'
-    implementation 'com.squareup.retrofit2:converter-gson:2.0.2'</br>
-    implementation 'com.squareup.retrofit2:adapter-rxjava:2.0.2'</br>
-    implementation 'com.squareup.okhttp3:logging-interceptor:3.2.0'</br>
-    //RxJava</br>
-    implementation 'io.reactivex:rxandroid:1.2.1'</br>
-    implementation 'io.reactivex:rxjava:1.1.6'</br>
-    implementation'com.jakewharton:butterknife:8.2.1'</br>
-    implementation 'org.jetbrains:annotations-java5:15.0'</br>
-    annotationProcessor'com.jakewharton:butterknife-compiler:8.2.1'</br>
-    implementation 'com.android.support:recyclerview-v7:28.0.0'</br>
+    implementation 'com.squareup.retrofit2:converter-gson:2.0.2'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.0.2'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.2.0'
+    //RxJava
+    implementation 'io.reactivex:rxandroid:1.2.1'
+    implementation 'io.reactivex:rxjava:1.1.6'
+    implementation'com.jakewharton:butterknife:8.2.1'
+    implementation 'org.jetbrains:annotations-java5:15.0'
+    annotationProcessor'com.jakewharton:butterknife-compiler:8.2.1'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
 ## 运行截图</br>
-    首页<br>
-    https://github.com/ColaemmZuo/MobileShop/tree/master/app/src/main/res/drawable/photos/home.png<br>
+    首页
+    ![](https://github.com/ColaemmZuo/MobileShop/tree/master/app/src/main/res/drawable/photos/home.png)
